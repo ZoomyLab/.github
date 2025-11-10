@@ -1,2 +1,0 @@
-# .gitlab
-Organisation main page
